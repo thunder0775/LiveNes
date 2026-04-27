@@ -14,13 +14,11 @@
     {
       "key": "csp_Gz360",
       "name": "瓜子┃影视",
-      "version": 1,
-      "type": 101,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/Zhi_guazi.txt",
-      "webSite": "https://api.w32z7vtd.com",
-      "codeID": "Wk8QHRLbh6dXDPEjpcJ4ZG8BIim8MRrM",
+      "type": 3,
+      "api": "csp_Gz360",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://tv.菜妮丝.top/jar/feimao0227.jar;md5;43439ab24ef55a81150ca64aa9383da2"
     },
     {
       "key": "潮流",
