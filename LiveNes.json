@@ -36,7 +36,7 @@
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/fm0227.jar;md5;b0adab2fad1de8871b9533527f407cdf"
+      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/fm0227.jar"
     },
     {
       "key": "云播",
@@ -446,7 +446,7 @@
       "api": "csp_SP360",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/xyq0729.jar;md5;705ba6e23c4384c37a11dd904727520b"
+      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/xyq0729.jar"
     },
     {
       "key": "非凡",
@@ -455,47 +455,6 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "push_agent",
-      "name": "推送┃链接",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/fm0227.jar;md5;b0adab2fad1de8871b9533527f407cdf"
-    },
-    {
-      "key": "公告",
-      "name": "——————————",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明1",
-      "name": "https://菜妮丝.top",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明2",
-      "name": "免费接口更新维护",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "说明3",
-      "name": "请勿相信视频中任何广告",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "changeable": 0
     }
   ],
   "parses": [
