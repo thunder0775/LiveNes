@@ -1,7 +1,7 @@
 {
   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/fty0227.jar",
-  "logo": "https://ghproxy.net/https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
-  "wallpaper": "https://ghproxy.net/https://api.hanximeng.com/ranimg/?size=m",
+  "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
+  "wallpaper": "https://api.hanximeng.com/ranimg/?size=m",
   "sites": [
     {
       "key": "豆瓣",
@@ -171,7 +171,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 10,
-      "ext": "https://ghproxy.net/https://www.xb6v.com/"
+      "ext": "https://www.xb6v.com/"
     },
     {
       "key": "咕咕",
@@ -225,7 +225,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "json": "https://ghproxy.net/https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
       }
     },
     {
@@ -240,7 +240,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "json": "https://ghproxy.net/https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
       }
     },
     {
@@ -255,7 +255,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "json": "https://ghproxy.net/https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
       }
     },
     {
@@ -270,7 +270,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "json": "https://ghproxy.net/https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
       }
     },
     {
@@ -290,7 +290,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x",
+      "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -310,7 +310,7 @@
       "api": "csp_AppQi",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd",
+      "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -330,7 +330,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://app.95112475.xyz|5a9w6x58dsq6z3a6",
+      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -350,7 +350,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
+      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -360,7 +360,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://ios.hgyx.vip|062dec75d039980e",
+      "ext": "https://ios.hgyx.vip|062dec75d039980e",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -370,7 +370,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
+      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -380,7 +380,7 @@
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
+      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -399,7 +399,7 @@
       "api": "csp_SaoHuo",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://shdy5.us",
+      "ext": "https://shdy5.us",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -466,17 +466,17 @@
     {
       "name": "HLS",
       "type": 0,
-      "url": "https://ghproxy.net/https://jx.hls.one/?url="
+      "url": "https://jx.hls.one/?url="
     },
     {
       "name": "虾米",
       "type": 0,
-      "url": "https://ghproxy.net/https://jx.xmflv.com/?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "虾米2",
       "type": 0,
-      "url": "https://ghproxy.net/https://jx.xmflv.cc/?url="
+      "url": "https://jx.xmflv.cc/?url="
     }
   ],
   "flags": [
@@ -620,7 +620,7 @@
   "doh": [
     {
       "name": "Google",
-      "url": "https://ghproxy.net/https://dns.google/dns-query",
+      "url": "https://dns.google/dns-query",
       "ips": [
         "8.8.4.4",
         "8.8.8.8"
@@ -628,7 +628,7 @@
     },
     {
       "name": "Cloudflare",
-      "url": "https://ghproxy.net/https://cloudflare-dns.com/dns-query",
+      "url": "https://cloudflare-dns.com/dns-query",
       "ips": [
         "1.1.1.1",
         "1.0.0.1",
@@ -638,7 +638,7 @@
     },
     {
       "name": "AdGuard",
-      "url": "https://ghproxy.net/https://dns.adguard.com/dns-query",
+      "url": "https://dns.adguard.com/dns-query",
       "ips": [
         "94.140.14.140",
         "94.140.14.141"
@@ -646,7 +646,7 @@
     },
     {
       "name": "DNSWatch",
-      "url": "https://ghproxy.net/https://resolver2.dns.watch/dns-query",
+      "url": "https://resolver2.dns.watch/dns-query",
       "ips": [
         "84.200.69.80",
         "84.200.70.40"
@@ -654,7 +654,7 @@
     },
     {
       "name": "Quad9",
-      "url": "https://ghproxy.net/https://dns.quad9.net/dns-quer",
+      "url": "https://dns.quad9.net/dns-quer",
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
@@ -675,7 +675,7 @@
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/interface.txt",
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://ghproxy.net/https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "虎牙一起看",
