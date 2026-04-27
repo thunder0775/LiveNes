@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/fty0227.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/fty0227.jar",
   "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
   "wallpaper": "https://api.hanximeng.com/ranimg/?size=m",
   "sites": [
@@ -16,7 +16,7 @@
       "name": "瓜子┃影视",
       "version": 1,
       "type": 101,
-      "api": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/Zhi_guazi.txt",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/Zhi_guazi.txt",
       "webSite": "https://api.w32z7vtd.com",
       "codeID": "Wk8QHRLbh6dXDPEjpcJ4ZG8BIim8MRrM",
       "searchable": 1,
@@ -148,7 +148,7 @@
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/fm0227.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/fm0227.jar"
     },
     {
       "key": "云播",
@@ -408,7 +408,7 @@
       "key": "csp_AppXY",
       "name": "星牙┃短剧",
       "type": 3,
-      "api": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/XYDJ.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/XYDJ.py",
       "searchable": 1,
       "changeable": 1,
       "jar": "https://tv.菜妮丝.top/jar/feimao0227.jar;md5;43439ab24ef55a81150ca64aa9383da2"
@@ -417,7 +417,7 @@
       "key": "📺┃︎剧王┃短剧",
       "name": "剧王┃短剧",
       "type": 3,
-      "api": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/JWDJ.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/JWDJ.py",
       "searchable": 1,
       "changeable": 1,
       "jar": "https://tv.菜妮丝.top/jar/feimao0227.jar;md5;43439ab24ef55a81150ca64aa9383da2"
@@ -448,7 +448,7 @@
       "api": "csp_SP360",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/xyq0729.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/xyq0729.jar"
     },
     {
       "key": "非凡",
@@ -670,26 +670,26 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/iptv.m3u"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/iptv.m3u"
     },
     {
       "name": "develop202",
       "type": 0,
-      "url": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/interface.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/interface.txt",
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "虎牙一起看",
       "type": 0,
-      "url": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/huyayqk.m3u",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/huyayqk.m3u",
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
       "name": "斗鱼一起看",
       "type": 0,
-      "url": "https://ghproxy.net/https://github.com/thunder0775/LiveNes/blob/5e483b63bb3cbccb205b7aec56fb1bb0403df3ad/lib/douyuyqk.m3u",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/douyuyqk.m3u",
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
     }
