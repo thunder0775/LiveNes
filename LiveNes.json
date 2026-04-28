@@ -9,16 +9,25 @@
       "type": 3,
       "api": "csp_DouDouGuard",
       "searchable": 0,
-      "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/fty0227.jar"
+      "changeable": 0
     },
     {
-      "key": "csp_Gz360",
-      "name": "瓜子┃影视",
+      "key": "360影视",
+      "name": "360┃解析",
       "type": 3,
-      "api": "csp_Gz360",
+      "api": "csp_SP360",
       "searchable": 1,
       "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/xyq0729.jar"
+    },
+    {
+      "key": "蔬菜",
+      "name": "蔬菜┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
       "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -29,6 +38,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://v.rbotv.cn",
+      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "changeable": 1,
       "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -89,16 +107,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
-      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
-    },
-    {
-      "key": "蔬菜",
-      "name": "蔬菜┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
       "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
     },
     {
@@ -439,15 +447,6 @@
       "searchable": 1,
       "changeable": 1,
       "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/feimao0227.jar"
-    },
-    {
-      "key": "360影视",
-      "name": "360┃解析",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/thunder0775/LiveNes/refs/heads/main/lib/xyq0729.jar"
     },
     {
       "key": "非凡",
