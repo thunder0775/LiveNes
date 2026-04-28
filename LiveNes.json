@@ -666,30 +666,15 @@
   ],
   "lives": [
     {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://wgit.laoyoutiao.link/thunder0775/LiveNes/refs/heads/main/lib/iptv.m3u"
-    },
-    {
-      "name": "develop202",
-      "type": 0,
-      "url": "https://wgit.laoyoutiao.link/thunder0775/LiveNes/refs/heads/main/lib/interface.txt",
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "https://wgit.laoyoutiao.link/thunder0775/LiveNes/refs/heads/main/lib/huyayqk.m3u",
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 0,
-      "url": "https://wgit.laoyoutiao.link/thunder0775/LiveNes/refs/heads/main/lib/douyuyqk.m3u",
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://cs555.laoyoutiao.link/zhibo.php?key=2015test"
+          ]
+         }
+      ]
     }
   ]
 }
